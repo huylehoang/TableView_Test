@@ -1,0 +1,11 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "d1bdb8331d77747ab140ada8f3005309"
+build_time: [1569390161, 70699000]
+inputs:
+  "/Users/Leex/TableView_Test/TableView_Test/Supporter/ReadPropertyList.swift": [1569257214, 700319487]
+  "/Users/Leex/TableView_Test/TableView_Test/ViewController.swift": [1569323023, 221409948]
+  "/Users/Leex/TableView_Test/TableView_Test/ViewModel/ViewModel.swift": [1569212688, 651708670]
+  "/Users/Leex/TableView_Test/TableView_Test/Supporter/LoadingViewable.swift": [1569168428, 408152321]
+  "/Users/Leex/TableView_Test/TableView_Test/ViewModel/SectionModel.swift": [1569080492, 739364773]
+  "/Users/Leex/TableView_Test/TableView_Test/AppDelegate.swift": [1560266499, 922207548]
+  "/Users/Leex/TableView_Test/TableView_Test/Supporter/Extensions.swift": [1569168471, 427998416]

@@ -1,0 +1,252 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ReadPList"
+- "PListReader"
+- "PropertyList"
+provides-nominal:
+- "14TableView_Test9ReadPListP"
+- "14TableView_Test11PListReaderC"
+- "14TableView_Test12PropertyListV"
+provides-member:
+- ["14TableView_Test9ReadPListP", ""]
+- ["14TableView_Test11PListReaderC", ""]
+- ["14TableView_Test12PropertyListV", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "AssignmentPrecedence"
+- !private "Bundle"
+- "CastingPrecedence"
+- "NSDictionary"
+- "PListReader"
+- "PropertyList"
+- "ReadPList"
+- "String"
+depends-member:
+- !private ["SK", "lowercased"]
+- !private ["So8NSBundleC", "main"]
+- !private ["So8NSBundleC", "path"]
+- ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "lowercased"]
+- !private ["s7CVarArgP", "main"]
+- !private ["s7CVarArgP", "path"]
+- !private ["s7CVarArgP", "value"]
+- !private ["Sl", "lowercased"]
+- !private ["SL", "lowercased"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "lowercased"]
+- !private ["s28CustomDebugStringConvertibleP", "main"]
+- !private ["s28CustomDebugStringConvertibleP", "path"]
+- !private ["s28CustomDebugStringConvertibleP", "value"]
+- ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "lowercased"]
+- !private ["s17CustomReflectableP", "value"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "lowercased"]
+- !private ["s23CustomStringConvertibleP", "main"]
+- !private ["s23CustomStringConvertibleP", "path"]
+- !private ["s23CustomStringConvertibleP", "value"]
+- !private ["Se", "lowercased"]
+- !private ["SE", "lowercased"]
+- ["SQ", "init"]
+- !private ["SQ", "lowercased"]
+- !private ["SQ", "main"]
+- !private ["SQ", "path"]
+- !private ["SQ", "value"]
+- ["s30ExpressibleByDictionaryLiteralP", "init"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "value"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "lowercased"]
+- !private ["s32ExpressibleByStringInterpolationP", "lowercased"]
+- !private ["s26ExpressibleByStringLiteralP", "lowercased"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "lowercased"]
+- ["SH", "init"]
+- !private ["SH", "lowercased"]
+- !private ["SH", "main"]
+- !private ["SH", "path"]
+- !private ["SH", "value"]
+- !private ["14Differentiator16IdentifiableTypeP", "lowercased"]
+- !private ["s25LosslessStringConvertibleP", "lowercased"]
+- !private ["s10MirrorPathP", "lowercased"]
+- ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "lowercased"]
+- !private ["So8NSCodingP", "value"]
+- ["So9NSCopyingP", "init"]
+- !private ["So9NSCopyingP", "lowercased"]
+- !private ["So9NSCopyingP", "value"]
+- ["So12NSDictionaryC", "init"]
+- !private ["So12NSDictionaryC", "value"]
+- ["So17NSFastEnumerationP", "init"]
+- !private ["So17NSFastEnumerationP", "value"]
+- !private ["So21NSItemProviderReadingP", "lowercased"]
+- !private ["So21NSItemProviderWritingP", "lowercased"]
+- ["So16NSMutableCopyingP", "init"]
+- !private ["So16NSMutableCopyingP", "lowercased"]
+- !private ["So16NSMutableCopyingP", "value"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "lowercased"]
+- !private ["So8NSObjectC", "main"]
+- !private ["So8NSObjectC", "path"]
+- !private ["So8NSObjectC", "value"]
+- ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "lowercased"]
+- !private ["So8NSObjectP", "main"]
+- !private ["So8NSObjectP", "path"]
+- !private ["So8NSObjectP", "value"]
+- ["So14NSSecureCodingP", "init"]
+- !private ["So14NSSecureCodingP", "lowercased"]
+- !private ["So14NSSecureCodingP", "value"]
+- !private ["So8NSStringC", "lowercased"]
+- !private ["14TableView_Test11PListReaderC", "Bundle"]
+- ["14TableView_Test11PListReaderC", "NSDictionary"]
+- ["14TableView_Test11PListReaderC", "String"]
+- !private ["14TableView_Test11PListReaderC", "data"]
+- !private ["14TableView_Test11PListReaderC", "data.storage"]
+- ["14TableView_Test11PListReaderC", "deinit"]
+- ["14TableView_Test11PListReaderC", "init"]
+- !private ["14TableView_Test11PListReaderC", "loadNames"]
+- ["14TableView_Test11PListReaderC", "read"]
+- ["14TableView_Test11PListReaderC", "resource"]
+- ["14TableView_Test11PListReaderC", "type"]
+- !private ["14TableView_Test12PropertyListV", "PListReader"]
+- ["14TableView_Test12PropertyListV", "ReadPList"]
+- ["14TableView_Test12PropertyListV", "String"]
+- ["14TableView_Test12PropertyListV", "init"]
+- ["14TableView_Test12PropertyListV", "loadNames"]
+- !private ["Sm", "lowercased"]
+- ["7RxSwift18ReactiveCompatibleP", "init"]
+- !private ["7RxSwift18ReactiveCompatibleP", "lowercased"]
+- !private ["7RxSwift18ReactiveCompatibleP", "main"]
+- !private ["7RxSwift18ReactiveCompatibleP", "path"]
+- !private ["7RxSwift18ReactiveCompatibleP", "value"]
+- !private ["14TableView_Test9ReadPListP", "Bundle"]
+- ["14TableView_Test9ReadPListP", "NSDictionary"]
+- ["14TableView_Test9ReadPListP", "String"]
+- ["14TableView_Test9ReadPListP", ""]
+- !private ["14TableView_Test9ReadPListP", "data"]
+- !private ["14TableView_Test9ReadPListP", "loadNames"]
+- ["14TableView_Test9ReadPListP", "read"]
+- ["14TableView_Test9ReadPListP", "resource"]
+- ["14TableView_Test9ReadPListP", "type"]
+- ["ST", "init"]
+- !private ["ST", "lowercased"]
+- !private ["ST", "value"]
+- !private ["SS", "lowercased"]
+- !private ["Sy", "lowercased"]
+- !private ["s16TextOutputStreamP", "lowercased"]
+- !private ["s20TextOutputStreamableP", "lowercased"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "lowercased"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "lowercased"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "lowercased"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "lowercased"]
+- !private ["s19_HasContiguousBytesP", "lowercased"]
+- ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "lowercased"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "value"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "lowercased"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "main"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "path"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "value"]
+- !private ["s21_ObjectiveCBridgeableP", "lowercased"]
+depends-nominal:
+- !private "SK"
+- !private "So8NSBundleC"
+- "s7CVarArgP"
+- !private "Sl"
+- !private "SL"
+- "s28CustomDebugStringConvertibleP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- "s30ExpressibleByDictionaryLiteralP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s32ExpressibleByStringInterpolationP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- "SH"
+- !private "14Differentiator16IdentifiableTypeP"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- "So8NSCodingP"
+- "So9NSCopyingP"
+- "So12NSDictionaryC"
+- "So17NSFastEnumerationP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- "So16NSMutableCopyingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- "So14NSSecureCodingP"
+- !private "So8NSStringC"
+- "14TableView_Test11PListReaderC"
+- "14TableView_Test12PropertyListV"
+- !private "Sm"
+- "7RxSwift18ReactiveCompatibleP"
+- "14TableView_Test9ReadPListP"
+- "ST"
+- !private "SS"
+- !private "Sy"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s19_HasContiguousBytesP"
+- "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Users/Leex/TableView_Test/Build/Products/Debug-iphonesimulator/RxCocoa/RxCocoa.framework/Modules/RxCocoa.swiftmodule/x86_64.swiftmodule"
+- "/Users/Leex/TableView_Test/Build/Products/Debug-iphonesimulator/Differentiator/Differentiator.framework/Modules/Differentiator.swiftmodule/x86_64.swiftmodule"
+- "/Users/Leex/TableView_Test/Build/Products/Debug-iphonesimulator/RxDataSources/RxDataSources.framework/Modules/RxDataSources.swiftmodule/x86_64.swiftmodule"
+- "/Users/Leex/TableView_Test/Build/Products/Debug-iphonesimulator/RxSwift/RxSwift.framework/Modules/RxSwift.swiftmodule/x86_64.swiftmodule"
+- "/Users/Leex/TableView_Test/Build/Products/Debug-iphonesimulator/RxRelay/RxRelay.framework/Modules/RxRelay.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/Leex/TableView_Test/Build/Products/Debug-iphonesimulator/RxCocoa/RxCocoa.framework/Headers/_RX.h"
+- "/Users/Leex/TableView_Test/Build/Products/Debug-iphonesimulator/RxCocoa/RxCocoa.framework/Headers/RxCocoa-umbrella.h"
+- "/Users/Leex/TableView_Test/Build/Products/Debug-iphonesimulator/Differentiator/Differentiator.framework/Headers/Differentiator-umbrella.h"
+- "/Users/Leex/TableView_Test/Build/Products/Debug-iphonesimulator/RxDataSources/RxDataSources.framework/Headers/RxDataSources-umbrella.h"
+- "/Users/Leex/TableView_Test/Build/Products/Debug-iphonesimulator/RxSwift/RxSwift.framework/Headers/RxSwift-umbrella.h"
+- "/Users/Leex/TableView_Test/Build/Products/Debug-iphonesimulator/RxRelay/RxRelay.framework/Headers/RxRelay-umbrella.h"
+- "/Users/Leex/TableView_Test/Build/Products/Debug-iphonesimulator/RxCocoa/RxCocoa.framework/Headers/RxCocoa.h"
+- "/Users/Leex/TableView_Test/Build/Products/Debug-iphonesimulator/RxCocoa/RxCocoa.framework/Headers/_RXObjCRuntime.h"
+- "/Users/Leex/TableView_Test/Build/Products/Debug-iphonesimulator/RxCocoa/RxCocoa.framework/Headers/RxCocoaRuntime.h"
+- "/Users/Leex/TableView_Test/Build/Products/Debug-iphonesimulator/RxCocoa/RxCocoa.framework/Headers/_RXKVOObserver.h"
+- "/Users/Leex/TableView_Test/Build/Products/Debug-iphonesimulator/RxCocoa/RxCocoa.framework/Headers/RxCocoa-Swift.h"
+- "/Users/Leex/TableView_Test/Build/Products/Debug-iphonesimulator/Differentiator/Differentiator.framework/Headers/Differentiator-Swift.h"
+- "/Users/Leex/TableView_Test/Build/Products/Debug-iphonesimulator/RxDataSources/RxDataSources.framework/Headers/RxDataSources-Swift.h"
+- "/Users/Leex/TableView_Test/Build/Products/Debug-iphonesimulator/RxSwift/RxSwift.framework/Headers/RxSwift-Swift.h"
+- "/Users/Leex/TableView_Test/Build/Products/Debug-iphonesimulator/RxRelay/RxRelay.framework/Headers/RxRelay-Swift.h"
+- "/Users/Leex/TableView_Test/Build/Products/Debug-iphonesimulator/RxCocoa/RxCocoa.framework/Headers/_RXDelegateProxy.h"
+- "/Users/Leex/TableView_Test/Build/Products/Debug-iphonesimulator/RxCocoa/RxCocoa.framework/Modules/module.modulemap"
+- "/Users/Leex/TableView_Test/Build/Products/Debug-iphonesimulator/Differentiator/Differentiator.framework/Modules/module.modulemap"
+- "/Users/Leex/TableView_Test/Build/Products/Debug-iphonesimulator/RxDataSources/RxDataSources.framework/Modules/module.modulemap"
+- "/Users/Leex/TableView_Test/Build/Products/Debug-iphonesimulator/RxSwift/RxSwift.framework/Modules/module.modulemap"
+- "/Users/Leex/TableView_Test/Build/Products/Debug-iphonesimulator/RxRelay/RxRelay.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.4.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "5c75a299e3798887674ccf1803ea876d"
